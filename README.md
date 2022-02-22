@@ -14,17 +14,6 @@ To install requirement python libraries :
 pip install -r requirement.txt
 ```
 
-
-## Usage - Running Jupyter notebook
-
-#### Running in a local installation
-
-Launch with:
-
-``` 
-jupyter notebook
-```
-
 ## In Basic Folder Contain Basic topic and Advance Folder contain Advance topic :
 
 #### Basic :
